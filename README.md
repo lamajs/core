@@ -1,0 +1,2 @@
+# core
+Lama JS Core
